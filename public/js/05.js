@@ -1,0 +1,1 @@
+function div(a,b){ var result = null;  if(b != 0){   result= a/b;   }    return result;}
